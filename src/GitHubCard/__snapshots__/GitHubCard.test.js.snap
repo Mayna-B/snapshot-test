@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="Ruckus.jpeg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Mayna-B
+      </div>
+      <p
+        className="card-text"
+      >
+        My name is Ruckus. I was Mayna's first French Bulldog and she said I was the best friend she ever had.
+      </p>
+    </div>
+  </div>
+</div>
+`;
